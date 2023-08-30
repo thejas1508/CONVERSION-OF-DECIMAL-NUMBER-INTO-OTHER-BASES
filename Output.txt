@@ -1,0 +1,4 @@
+Enter the given decimal number : 415 
+The Binary value : 110011111
+The Octal value : 637 
+The Hexa value : 19f
